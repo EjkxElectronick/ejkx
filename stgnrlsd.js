@@ -31,7 +31,7 @@
                 //Longitud número               
                 jQuery('#helpdesk_ticket_custom_field_cf_nmero_de_telfono_1588414').attr("minlength", 10);
                 
-                //jQuery('#helpdesk_ticket_subject').val("PAGO DE MATRíCULA UTESA SEDE CICLO 2-2024");
+                
                 
                 
               
