@@ -1,6 +1,4 @@
-<script>
-                
-                jQuery(function () {
+jQuery(function () {
   const camposNombre = [
     "#helpdesk_ticket_custom_field_cf_apellidos_1588414",
     "#name_field"
@@ -74,5 +72,3 @@
     campo.attr("title", "Ingrese solo letras y espacios. El texto se capitaliza automáticamente según reglas ortográficas.");
   });
 });
-
-              </script>
