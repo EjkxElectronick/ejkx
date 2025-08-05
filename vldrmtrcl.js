@@ -1,4 +1,3 @@
-<script>
      jQuery(function () {
   const camposNumericos = [
     "#helpdesk_ticket_custom_field_cf_matrcula_pagos_1588414",
@@ -72,8 +71,3 @@
     campo.attr("title", `Formato requerido: 1-3 + año (00-${maxAnio}) + 4 dígitos. Ejemplo: 1239999`);
   });
 });
-
-
-
-                 
-</script>
