@@ -1,5 +1,4 @@
-<script> 
-                <script>
+
 jQuery(function () {
   const campoConfirmacion = jQuery("#helpdesk_ticket_custom_field_cf_confirmacin_correo_1588414");
   const campoPrincipal = jQuery("#helpdesk_ticket_email");
@@ -68,4 +67,4 @@ jQuery(function () {
 
   campoConfirmacion.attr("title", "Confirme su correo electrónico.");
 });
-</script>
+
