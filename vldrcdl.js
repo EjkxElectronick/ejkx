@@ -1,6 +1,4 @@
-<script>
-                
-     jQuery(function () {
+jQuery(function () {
   const campoCedula = jQuery("#helpdesk_ticket_custom_field_cf_cedula_o_rnc_1588414");
 
   // Crear un span para el tooltip debajo del campo, si no existe
@@ -79,7 +77,3 @@
 
   campoCedula.attr("title", "Ingrese una cédula o RNC válido de 11 dígitos con serie autorizada (Ej.: 001, 121, 402...)");
 });
-
-
-                
-              </script>
