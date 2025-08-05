@@ -1,4 +1,4 @@
-<script>
+
 jQuery(function () {
   const campo = jQuery("#helpdesk_ticket_custom_field_cf_info_1588414");
 
@@ -14,4 +14,4 @@ jQuery(function () {
     campo.prev("label").hide();
   }
 });
-</script>
+
